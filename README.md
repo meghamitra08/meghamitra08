@@ -21,10 +21,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="megha-m-957b64230 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="megha-m-957b64230 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="megha_mitra84 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/megha_mitra84/
 [linkedin]: https://www.linkedin.com/in/megha-m-957b64230/
 <!--
 **meghamitra08/meghamitra08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

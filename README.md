@@ -5,12 +5,8 @@
 - <b>SQL Projects</b>
   - [Demonstrated expertise in SQL through advanced querying, data aggregation, joins, recursive queries, window functions, and business-focused data analysis](https://github.com/meghamitra08/SQL-Projects)
 - <b>Power BI Projects</b>
-  - [Developed interactive Power BI dashboards, data modeling with DAX, transforming data using Power Query, and optimizing reports for insightful, data-driven decision-making.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Advanced Excel Projects</b>
+  - [Developed interactive Power BI dashboards, data modeling with DAX, transforming data using Power Query, and optimizing reports for insightful, data-driven decision-making.](https://github.com/meghamitra08/Power-BI-projects)
+  - <b>Advanced Excel Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)

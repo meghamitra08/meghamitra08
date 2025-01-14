@@ -6,8 +6,8 @@
   - [Demonstrated expertise in SQL through advanced querying, data aggregation, joins, recursive queries, window functions, and business-focused data analysis](https://github.com/meghamitra08/SQL-Projects)
 - <b>Power BI Projects</b>
   - [Developed interactive Power BI dashboards, data modeling with DAX, transforming data using Power Query, and optimizing reports for insightful, data-driven decision-making.](https://github.com/meghamitra08/Power-BI-projects)
-  -  <b>Tableau Projects</b>
-  - <b>Advanced Excel Projects</b>
+- <b>Tableau Projects</b>
+- <b>Advanced Excel Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)

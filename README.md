@@ -9,11 +9,9 @@
 - <b>Tableau Projects</b>
   - [Designed dynamic Tableau dashboards with advanced data visualizations, leveraging calculated fields and LOD expressions for in-depth analysis. Transformed and prepared data, optimized reports for performance, and delivered actionable insights to support data-driven decision-making.](https://github.com/meghamitra08/Tableau-Projects)
 - <b>Advanced Excel Projects</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+ 
 - <b>Python Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
 
 
 <h2> 🤳 Connect with me:</h2>

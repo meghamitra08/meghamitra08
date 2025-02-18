@@ -9,7 +9,7 @@
 - <b>Tableau Projects</b>
   - [Designed dynamic Tableau dashboards with advanced data visualizations, leveraging calculated fields and LOD expressions for in-depth analysis. Transformed and prepared data, optimized reports for performance, and delivered actionable insights to support data-driven decision-making.](https://github.com/meghamitra08/Tableau-Projects)
 - <b>Advanced Excel Projects</b>
-  - [howcases a collection of Excel-based data analysis projects designed to provide actionable business insights through interactive dashboards, data visualizations, and KPI tracking. Each project leverages Power Query, Pivot Tables, and advanced Excel formulas to streamline data processing and enhance decision-making.](https://github.com/meghamitra08/Excel-Projects)
+  - [Showcases a collection of Excel-based data analysis projects designed to provide actionable business insights through interactive dashboards, data visualizations, and KPI tracking. Each project leverages Power Query, Pivot Tables, and advanced Excel formulas to streamline data processing and enhance decision-making.](https://github.com/meghamitra08/Excel-Projects)
    
 - <b>Python Projects</b>
   - [Data cleaning and processing using python, exploratory data analysis using python, most used data analytics libraries in python: numpy, pandas, matplotlib and seaborn](https://github.com/meghamitra08/Python)
